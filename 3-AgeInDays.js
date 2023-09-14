@@ -14,3 +14,5 @@ function logResult(fullName, ageInDays) {
     console.log(`The person's full name is ${fullName} and their age in days is ${ageInDays}`);
 }
 ageInDays(person, logResult);
+
+// Output:- The person's full name is Vikarn Jha and their age in days is 7300
